@@ -68,7 +68,7 @@
 
 ## ลิขสิทธิ์
 
-โครงการนี้ใช้ลิขสิทธิ์ MIT ดูรายละเอียดเพิ่มเติมในไฟล์ [LICENSE](LICENSE)
+โครงการนี้ใช้ลิขสิทธิ์ MIT ดูรายละเอียดเพิ่มเติมในไฟล์ [LICENSE]([LICENSE](https://github.com/Zettqueuex/review_bot))
 
 ## เครดิต
 
